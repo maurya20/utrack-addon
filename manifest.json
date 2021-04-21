@@ -1,0 +1,10 @@
+{
+  "key": "sprint-summary",
+  "version": "0.0.1",
+  "name": "Sprint Summary",
+  "description": "Widget shows information about all work done in the given sprint.",
+  "author": "anonymous",
+  "products": {
+    "YouTrack": ">=2018.1"
+  }
+}
